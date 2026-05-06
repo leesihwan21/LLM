@@ -1,0 +1,18 @@
+.env
+__pycache__/
+*.pyc
+
+# venv 폴더 전체 제외
+07_venv/
+ch01_venv/
+ch02_venv/
+ch03_venv/
+ch04_venv/
+ch05_venv/
+
+# 큰 파일 제외
+*.dll
+*.lib
+*.pdf
+*.mp3
+*.docx
