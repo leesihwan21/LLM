@@ -26,4 +26,4 @@ AI 기반 실시간 도로 위험 요소(포트홀, 싱크홀) 감지 및 지능
 
 ## 🤝 Contact
 - **Author**: leesihwan21
-- **Email**: (여기에 이메일 주소를 적어주세요)
+- **Email**: (leesihwan21@gmail.com)
